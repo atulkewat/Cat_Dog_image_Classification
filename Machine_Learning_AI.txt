@@ -56,5 +56,9 @@ Reinforcement Learning Models
 
 Notes:
 
+
+
+Hello no more class
+
 Unit 5 could probability be split in 2 depending on how comprehensive the coverage is
 
